@@ -6,8 +6,8 @@
 # you've made.
 set -x
 
-login="dvyjones"
-email="dvyjones@dvyjones.com"
+login="henrikhodne"
+email="me@henrikhodne.com"
 
 last_id=$(cat last-tweet-id)
 
